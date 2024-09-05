@@ -24,6 +24,6 @@
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunxav&show_icons=true&theme=github_dark&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunxav&show_icons=true&theme=github_dark&count_private=true&locale=pt-br&include_all_commits=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brunxav&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&sideNums=1E69DD&ring=4C8EDA&dates=4C8EDA&currStreakNum=1E69DD&sideLabels=4C8EDA&currStreakLabel=1E69DD&fire=1E69DD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunxav&count_private=true&include_all_commits=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&sideNums=1E69DD&ring=4C8EDA&dates=4C8EDA&currStreakNum=1E69DD&sideLabels=4C8EDA&currStreakLabel=1E69DD&fire=1E69DD)](https://git.io/streak-stats)
