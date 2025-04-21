@@ -1,5 +1,4 @@
 # Bruno Santana Xavier
-# <img align="right" src="https://i.imgur.com/AMJLKGz.png" height="350"></img>
 <p align="justify">
      Profissional apaixonado por Tecnologia, com mais de 13 anos de experiência. Atualmente, sou um desenvolvedor PHP com mais de 6 anos de sólida experiência na criação de sites e sistemas robustos. Minhas habilidades abrangem PHP, Laravel, HTML5, CSS3, JavaScript, Bootstrap, jQuery e MySQL. 🚀
 </p>
