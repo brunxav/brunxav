@@ -1,4 +1,5 @@
 # Bruno Santana Xavier
+<img align="right" src="https://camo.githubusercontent.com/a52a498bec742d798a87b4063b5eb21c2e117a1a7ce82aa81e6612ff67b75ef2/68747470733a2f2f692e696d6775722e636f6d2f5065426d4937442e706e67" height="350"></img>
 <p align="justify">
      Profissional apaixonado por Tecnologia, com mais de 13 anos de experiência. Atualmente, sou um desenvolvedor PHP com mais de 6 anos de sólida experiência na criação de sites e sistemas robustos. Minhas habilidades abrangem PHP, Laravel, HTML5, CSS3, JavaScript, Bootstrap, jQuery e MySQL. 🚀
 </p>
